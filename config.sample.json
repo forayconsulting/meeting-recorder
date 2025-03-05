@@ -1,0 +1,12 @@
+{
+    "api_key": "YOUR_OPENAI_API_KEY_HERE",
+    "transcript_dir": "~/Documents/Transcriptions",
+    "show_visual_indicator": true,
+    "indicator_opacity": 0.3,
+    "audio": {
+        "device_id": null,
+        "device_name": "System Default",
+        "channels": 1,
+        "sample_rate": 44100
+    }
+}

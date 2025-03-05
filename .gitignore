@@ -1,0 +1,48 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Audio and transcription files
+*.wav
+*.mp3
+*.ogg
+*.aac
+*.flac
+
+# Debug logs
+debug.log
+
+# Configuration (possibly containing API keys)
+config.json
+
+# Local environment
+.env
+.venv
+.python-version
+
+# Editor specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Mac specific
+.DS_Store

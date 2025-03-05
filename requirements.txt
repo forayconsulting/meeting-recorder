@@ -1,0 +1,5 @@
+rumps>=0.4.0
+pyaudio>=0.2.11
+pynput>=1.7.6
+openai>=0.27.0
+requests>=2.27.1
